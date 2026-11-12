@@ -81,16 +81,16 @@ export default function ProfilePage() {
         {/* 배지 태그 */}
         <div className="flex items-center gap-2 mt-2">
           <span className="px-2.5 py-0.5 text-xs font-medium rounded-full bg-indigo-50 text-indigo-700 dark:bg-indigo-950/60 dark:text-indigo-300 border border-indigo-200/60 dark:border-indigo-800/50">
-            🎓 대학생
+            💻 Junior Developer
           </span>
           <span className="px-2.5 py-0.5 text-xs font-medium rounded-full bg-sky-50 text-sky-700 dark:bg-sky-950/60 dark:text-sky-300 border border-sky-200/60 dark:border-sky-800/50">
-            💻 바이브 코딩
+            🌱 Continuous Learner
           </span>
         </div>
 
         {/* 소개글 */}
         <p className="mt-4 text-sm sm:text-base leading-relaxed text-zinc-600 dark:text-zinc-400 max-w-xs break-keep">
-          안녕하세요! 바이브 코딩을 배우고 있는 대학생입니다.
+          아이디어를 코드로 구현하고 문제 해결을 즐기는 개발자입니다. 더 나은 사용자 경험을 고민하며 매일 한 걸음씩 성장하고 있습니다.
         </p>
 
         {/* 링크 목록 */}
