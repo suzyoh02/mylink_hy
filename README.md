@@ -29,7 +29,7 @@ npm install
 npm run dev
 ```
 
-브라우저에서 [http://localhost:3000](http://localhost:3000)으로 접속하면 확인할 수 있습니다.
+브라우저에서 https://suzyoh02.github.io/mylink_hy/ 으로 접속하면 확인할 수 있습니다.
 
 ## 📄 라이선스
 This project is licensed under the [MIT License](./LICENSE).
